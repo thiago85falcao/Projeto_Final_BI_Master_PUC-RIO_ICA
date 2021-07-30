@@ -4,5 +4,4 @@ lasio
 matplotlib
 seaborn
 os
-glob
 sklearn
