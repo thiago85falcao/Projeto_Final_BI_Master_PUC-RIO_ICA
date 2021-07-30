@@ -1,15 +1,1 @@
-# import mec_prop_calc.bulk_mod
-# import mec_prop_calc.cohesion
-# import mec_prop_calc.ductility
-# import mec_prop_calc.friction_coef
-# import mec_prop_calc.Gc
-# import mec_prop_calc.OCR
-# import mec_prop_calc.optimal_fault_dip
-# import mec_prop_calc.Pp
-# import mec_prop_calc.PR
-# import mec_prop_calc.shear_mod
-# import mec_prop_calc.Sveff
-# import mec_prop_calc.TS
-# import mec_prop_calc.UCS
-# import mec_prop_calc.young_modulus
-__all__ = ["PR","TS","UCS","young_modulus"]
+__all__ = ["PR","UCS","young_modulus"]

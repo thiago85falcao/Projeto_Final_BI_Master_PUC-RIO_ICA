@@ -11,7 +11,7 @@ behavior utilizing borehole log data.
 Developed initially as Final Project of BI-Master
 course from ICA - PUC-RJ.
 Author: Thiago Falcao
-Supervisor: Prof. Leonardo Menezes
+Supervisor: Prof. Leonardo Mendonza
 
 ### Parameters table
 
