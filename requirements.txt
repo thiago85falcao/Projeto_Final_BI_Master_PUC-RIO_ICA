@@ -1,0 +1,8 @@
+pandas
+numpy
+lasio
+matplotlib
+seaborn
+os
+glob
+sklearn
