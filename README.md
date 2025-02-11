@@ -8,7 +8,7 @@
 
 ------
 
-Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+Trabalho apresentado ao curso [BI MASTER](https://ica.ele.puc-rio.br/) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 - [Repositório Códigos - GIT](https://github.com/thiago85falcao/Projeto_Final_BI_Master_PUC-RIO_ICA). <!-- caso não aplicável, remover esta linha -->
 
